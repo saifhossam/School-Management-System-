@@ -4,8 +4,6 @@
 
 This project is a **School Management System** web application designed to streamline administrative and academic tasks for educational institutions. Built using modern web technologies, it provides a user-friendly interface to manage students, teachers, classes, attendance, grades, and more. The system aims to enhance efficiency in school operations, improve communication between stakeholders, and simplify data management.
 
-**Note**: This README assumes the project structure and functionalities based on common school management systems, as the specific details of the repository at `https://github.com/saifhossam/School-Management-System-/tree/main/School%20Management%20System%20(web)` are not fully accessible. Adjust the content as needed to match the actual implementation.
-
 ## Features
 
 - **User Roles**:
